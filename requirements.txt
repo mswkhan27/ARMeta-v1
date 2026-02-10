@@ -1,0 +1,8 @@
+behave>=1.2.6
+crewai
+streamlit>=1.30.0
+requests>=2.31.0
+openai>=1.0.0
+litellm>=1.0.0
+PyYAML>=6.0
+jsonschema>=4.0.0
