@@ -1,4 +1,4 @@
-# Agentic Testing (GWT) — Streamlit GUI
+# Agentic Rest API Metamorphic Testing Tool (ARMeta v1)
 
 CrewAI-based metamorphic testing for REST APIs with a Streamlit UI. The app generates metamorphic relations (MRs), generates Behave step code, executes tests, and tracks operation coverage against an OpenAPI specification.
 
